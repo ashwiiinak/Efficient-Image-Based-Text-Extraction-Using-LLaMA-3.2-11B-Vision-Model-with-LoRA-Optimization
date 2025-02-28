@@ -1,0 +1,2 @@
+# Efficient-Image-Based-Text-Extraction-Using-LLaMA-3.2-11B-Vision-Model-with-LoRA-Optimization
+This project uses the **LLaMA 3.2 11B Vision Model** to extract text from images and evaluates accuracy using **WER and CER**. **LoRA** is applied to reduce computational costs while maintaining performance. The implementation is done in **Google Colab** using PyTorch and Hugging Face Transformers for efficient text extraction.
